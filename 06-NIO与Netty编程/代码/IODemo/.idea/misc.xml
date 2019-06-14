@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/NIODemo/pom.xml" />
+        <option value="$PROJECT_DIR$/NettyDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/NettyRPC/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="bd83fc96-fafb-4b10-bb8a-d9d41c5f7837" />
+      <option name="name" value="bd83fc96-fafb-4b10-bb8a-d9d41c5f7837" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+  </component>
+</project>

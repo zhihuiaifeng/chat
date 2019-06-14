@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BIODemo/BIODemo.iml" filepath="$PROJECT_DIR$/BIODemo/BIODemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIODemo/NIODemo.iml" filepath="$PROJECT_DIR$/NIODemo/NIODemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyDemo/NettyDemo.iml" filepath="$PROJECT_DIR$/NettyDemo/NettyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyRPC/NettyRPC.iml" filepath="$PROJECT_DIR$/NettyRPC/NettyRPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
+    </modules>
+  </component>
+</project>
